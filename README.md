@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Princess Irikefe
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Python
+- 👀 I’m a Data Analyst
+- 🌱 I’m Skilled in Excel, SQL, Tableau, and Python
 - 💞️ I’m looking to collaborate on Data analysis
 - 📫 You can send me an email: princessirikefe4@gmail.com
 
